@@ -1,0 +1,7 @@
+  =>  Name    : Trash To Craft Website 
+
+  =>  Description    : Turning trash into treasure through tech and creativity. This project is created with the help of HTML, CSS, JavaScript and Bootstrap.
+                       This project is designed to inspire eco-friendly living by turning waste into creative, functional, and reusable items. It shares 
+                       step-by-step guides, practical tips, and innovative ideas to help individuals repurpose everyday trash into valuable resources. By
+                       reducing landfill waste and encouraging recycling, this project highlights the importance of sustainable practices and promotes a 
+                       hands-on approach to building a cleaner, greener future.
